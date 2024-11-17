@@ -1,1 +1,3 @@
-ciao bella per 
+function creaArray(A){
+    
+}
